@@ -1,4 +1,4 @@
-# CNC-Machine
+# CNC Machine
 This is a machine can write, draw etc. automatically 
 ## COMPONENTS REQUIRED
 <ol type="1">
