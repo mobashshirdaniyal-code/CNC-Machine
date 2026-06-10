@@ -1,5 +1,5 @@
 # CNC Machine
-This is a machine can write, draw etc. automatically 
+This is a machine which can write, draw etc. automatically 
 ## COMPONENTS REQUIRED
 <ol type="1">
   <li>Stepper Motors</li>
