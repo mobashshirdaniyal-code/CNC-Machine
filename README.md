@@ -12,3 +12,7 @@ This is a machine can write, draw etc. automatically
 
 ## IMAGES  
 <img src="WhatsApp Image 2026-06-10 at 12.35.43 PM.jpeg" alt="IMAGE" width="190px">
+
+## HOW TO MAKE?
+ This is my YouTube short video to make CNC Machine :
+ https://youtube.com/shorts/vmfRxkeN-gI?si=2MtFXgBdKMuHuZdV
