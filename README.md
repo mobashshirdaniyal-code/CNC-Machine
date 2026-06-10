@@ -11,4 +11,4 @@ This is a machine can write, draw etc. automatically
 </ol>
 
 ## IMAGES  
-<img src="cnc.jpg" alt="IMAGE" width="190px">
+<img src="WhatsApp Image 2026-06-10 at 12.35.43 PM.jpeg" alt="IMAGE" width="190px">
