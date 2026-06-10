@@ -11,3 +11,4 @@ This is a machine can write, draw etc. automatically
 </ol>
 
 ## IMAGES  
+<img src="cnc.jpg" alt="IMAGE" width="190px">
