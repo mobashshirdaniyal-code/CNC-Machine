@@ -1,5 +1,5 @@
 # CNC Machine
-This is a machine which can write, draw etc. automatically. This is a teamwork with my NAS team
+This is a machine which can write, draw etc. automatically. This is a teamwork with our NAS team
 ## COMPONENTS REQUIRED
 <ol type="1">
   <li>Stepper Motors</li>
