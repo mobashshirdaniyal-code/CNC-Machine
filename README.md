@@ -1,5 +1,5 @@
 # CNC Machine
-This is a machine which can write, draw etc. automatically 
+This is a machine which can write, draw etc. automatically. This is a teamwork with my NAS team
 ## COMPONENTS REQUIRED
 <ol type="1">
   <li>Stepper Motors</li>
@@ -13,6 +13,13 @@ This is a machine which can write, draw etc. automatically
 ## IMAGES  
 <img src="WhatsApp Image 2026-06-10 at 12.35.43 PM.jpeg" alt="IMAGE" width="190px">
 
+## THIS PROJECT IS MADE BY
+<ol type="sphere">
+  <li>MOBASHSHIR DANIYAL</li>
+  <li>AFZAN HOSSAIN</li>
+  <li>IFHAM IBRAHIM</li>
+  </li>
+</ol>
 ## HOW TO MAKE?
  This is my YouTube short video to make CNC Machine :
  <br>
