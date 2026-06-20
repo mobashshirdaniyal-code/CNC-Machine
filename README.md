@@ -13,7 +13,7 @@ This is a machine which can write, draw etc. automatically. This is a teamwork w
 ## IMAGES  
 <img src="WhatsApp Image 2026-06-10 at 12.35.43 PM.jpeg" alt="IMAGE" width="190px">
 
-## THIS PROJECT IS MADE BY ::
+## PROJECT TEAM
 <ol type="sphere">
   <li>MOBASHSHIR DANIYAL</li>
   <li>AFZAN HOSSAIN</li>
